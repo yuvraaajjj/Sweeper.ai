@@ -1,0 +1,9 @@
+/cleaned_files
+/faiss_indexes
+.env
+/uploads
+demo_cleaned.csv
+demo.csv
+healthcare_dataset.csv
+yahoo_data.csv
+/__pycache__
