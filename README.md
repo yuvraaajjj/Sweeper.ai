@@ -1,5 +1,7 @@
 Project: Sweeper.AI – Automated Data Cleaning & Analysis
+
 Overview
+
 Sweeper.AI is an AI-powered web application designed to automate data preprocessing, analysis, and feature engineering for machine learning applications. It enables users to upload raw datasets, clean and preprocess them, and generate insightful analysis reports. The system provides domain classification, key insights, preprocessing steps, data issues, feature engineering suggestions, potential data enhancements, and recommended machine learning models.
 
 Key Features
